@@ -1,8 +1,8 @@
 
 ## Тестовое задание для Keep-Calm
--Gitclone https://github.com/guselnikovv/comments.git
--Composer install
--Npm install
--php artisan migrate --seed
--php artisan serve
--npm run dev
+<p> -Gitclone https://github.com/guselnikovv/comments.git </p>
+<p>-composer install</p>
+<p>-npm install</p>
+<p>-php artisan migrate --seed</p>
+<p>-php artisan serve</p>
+<p>-npm run dev</p>
