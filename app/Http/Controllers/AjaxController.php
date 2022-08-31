@@ -72,11 +72,5 @@ class AjaxController extends Controller
         return view('layouts.comment', compact('comments'));
 
     }
-
-    public function test()
-    {
-        $authors = User::where('name', 'like', '%Dan%')->get();
-
-        return view('layouts.filterAuthor', compact('authors'));
-    }
+    
 }
